@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    border:0
+}
+body {
+    
+    font-family: 'Roboto', sans-serif;  
+}
+h1, h2, h3, h4, h5, h6, a {
+    font-family: 'Bebas Neue', cursive;
+}
+.navbar {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #003049;  
+}
+footer {
+    background-color: #669bbc;
+}
